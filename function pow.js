@@ -6,5 +6,5 @@ function pow(x, y) {
     return result;
 }
 
-// Приклади використання:
+// Як будемо використовати:
 console.log(pow(4, 3)); // Виведе 64
